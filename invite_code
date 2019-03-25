@@ -10,7 +10,7 @@ now while you are on :
 https://www.hackthebox.eu/invite
 let's open the Inspection tools Ctrl+Shift+I
 read through the elements
-after carefully reading, you will find an src called /js/inviteapi.min.js
+after carefully reading, you will find a src called /js/inviteapi.min.js
 
 Step 3:- 
 so let's go to  https://www.hackthebox.eu/js/inviteapi.min.js
