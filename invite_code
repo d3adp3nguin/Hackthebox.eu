@@ -1,14 +1,19 @@
 Step 1:-
 Go to :
-https://www.hackthebox.eu/
+        https://www.hackthebox.eu/
+
+
 scroll down a little and click join 
 you'll be redirected here:
-https://www.hackthebox.eu/invite
+        
+         https://www.hackthebox.eu/invite
 
 Step 2:-
 now while you are on :
 https://www.hackthebox.eu/invite
-let's open the Inspection tools Ctrl+Shift+I
+
+        let's open the Inspection tools Ctrl+Shift+I
+
 read through the elements
 after carefully reading, you will find a src called /js/inviteapi.min.js
 
